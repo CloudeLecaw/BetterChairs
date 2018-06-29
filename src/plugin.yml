@@ -1,6 +1,7 @@
+#This plugin need to be recoded from zero.
 main: net.blackscarx.betterchairs.ChairsPlugin
 name: BetterChairs
-version: 0.9.0
+version: 0.9.5
 author: BlackScarx
 commands:
   betterchairsreload:
